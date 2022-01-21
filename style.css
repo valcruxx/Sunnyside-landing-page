@@ -29,7 +29,7 @@ header h1 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 15px;
+  padding: 30px 15px;
 }
 #desktop-nav li {
   display: inline-block;
