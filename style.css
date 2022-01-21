@@ -390,6 +390,8 @@ footer p a:hover {
     flex-direction: column;
     padding: 10px;
   }
+  .testimony {margin: 25px 0;}
+  .position {margin-bottom: 25px;}
   #image-flex {
     display: grid;
     grid-template-columns: auto auto;
